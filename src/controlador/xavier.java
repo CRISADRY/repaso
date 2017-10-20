@@ -13,8 +13,9 @@ public class xavier {
             //dfguhnsuidnhas
     public static void main(String[] args) {
         System.out.println("gfchjdbgjas");
+         System.out.println (
+"warner gay");
     }
     ///ajksbhdjkashjkdas
-    System.out.println (
-"");
+   
 }
