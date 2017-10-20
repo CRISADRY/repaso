@@ -10,12 +10,13 @@ package controlador;
  */
 public class xavier {
     //7hola amiguitos jaja 
-            //dfguhnsuidnhas
+    //dfguhnsuidnhas
+
     public static void main(String[] args) {
         System.out.println("gfchjdbgjas");
-         System.out.println (
-"warner gay");
+        System.out.println(
+                "warner gay y el almache");
+        
     }
     ///ajksbhdjkashjkdas
-   
 }
