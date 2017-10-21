@@ -11,5 +11,7 @@ package controlador;
 // hola.. muchachos xfa repasen
 
 public class repaso {
-    
+    public static void main(String[] args) {
+        System.out.println("ok jaja");
+    }
 }
