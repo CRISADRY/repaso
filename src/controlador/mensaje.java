@@ -9,6 +9,7 @@ public class mensaje {
     
     public void primero(){
         System.out.println("Sigo repasando");
+       System.out.println("Hola como estan");
     }
     
 }
