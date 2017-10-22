@@ -17,7 +17,7 @@ public class xavier {
         System.out.println(
                 "warner gay y el almache");
         
-    }
+    }// no pues asi :P
     ///ajksbhdjkashjkdas
     //holaas
  
