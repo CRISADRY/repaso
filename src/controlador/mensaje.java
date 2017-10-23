@@ -12,6 +12,7 @@ public class mensaje {
        System.out.println("Hola como estan");
        System.out.println("Hola como estan");
        System.out.println("Hola como estan");
+        System.out.println("hola hola bien bien");
     }
     
 }
